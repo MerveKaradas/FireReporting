@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747221641385",
+    "project_id": "yanginvar-8d3e8",
+    "storage_bucket": "yanginvar-8d3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747221641385:android:13f129599d1c881beba1b8",
+        "android_client_info": {
+          "package_name": "com.mervekaradas.yanginvardemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9jAr9OSSYmNq3ub0lb-IT_mk84akQT_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

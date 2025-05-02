@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YanginVarDemo</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map">Map</string>
+    <string name="delete_image">Görseli sil</string>
+</resources>
